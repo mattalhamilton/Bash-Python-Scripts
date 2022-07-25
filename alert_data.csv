@@ -1,0 +1,501 @@
+Date,Time,Priority,Classification,Description,Source_IP,Destination_IP
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50465 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50467 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50469 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50471 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50473 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.25 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50475 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50477 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50479 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50481 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50483 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50485 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50487 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino domcfg.nsf access ,192.168.202.79:50487 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50489 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50491 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino domlog.nsf access ,192.168.202.79:50491 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50493 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50495 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino events4.nsf access ,192.168.202.79:50495 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50497 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50499 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50501 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50503 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50504 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50506 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50508 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.103 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50510 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50512 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50514 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50516 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino log.nsf access ,192.168.202.79:50516 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50518 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50520 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino mab.nsf access ,192.168.202.79:50520 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50522 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50524 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50526 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50528 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50530 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50532 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50533 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50535 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50537 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50539 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50541 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino mail.box access ,192.168.202.79:50541 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.202.1 , 192.168.202.100
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50543 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50545 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50547 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.152 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50549 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino names.nsf access ,192.168.202.79:50549 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50551 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50553 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50555 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50557 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50559 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.102 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50561 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50563 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.203 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50565 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50567 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50569 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50571 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.101 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50573 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50575 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino setup.nsf access ,192.168.202.79:50575 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50577 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.202 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50579 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50581 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50583 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50585 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50587 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50589 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50591 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50593 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50595 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50597 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50599 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50601 , 192.168.229.251:80
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.253 , 192.168.202.100
+03/16,07:30:00, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.25 , 192.168.202.100
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50603 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50605 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50607 , 192.168.229.251:80
+03/16,07:30:00, 2, Attempted Information Leak,WEB-MISC Domino statrep.nsf access ,192.168.202.79:50607 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50609 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50611 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50613 , 192.168.229.251:80
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50615 , 192.168.229.251:80
+03/16,07:30:00, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50617 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50619 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50621 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50623 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50624 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50626 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50628 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50630 , 192.168.229.251:80
+03/16,07:30:01, 2, Attempted Information Leak,WEB-MISC Domino webadmin.nsf access ,192.168.202.79:50630 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50632 , 192.168.229.251:80
+03/16,07:30:01, 2, Attempted Information Leak,WEB-MISC http directory traversal ,192.168.202.79:50634 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50634 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50636 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50638 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50640 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50642 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50644 , 192.168.229.251:80
+03/16,07:30:01, 2, Access to a Potentially Vulnerable Web Application,WEB-PHP /_admin access ,192.168.202.79:50644 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50646 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50648 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50650 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50652 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50654 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50656 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50658 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50660 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50662 , 192.168.229.251:80
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.253 , 192.168.202.100
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.202.1 , 192.168.202.100
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50664 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50666 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50668 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.152 , 192.168.202.100
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50670 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50672 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50674 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50676 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50677 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50679 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50681 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50683 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50685 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50687 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50689 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50691 , 192.168.229.251:80
+03/16,07:30:01, 2, Attempted Information Leak,WEB-CGI calendar access ,192.168.202.79:50691 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50693 , 192.168.229.251:80
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.202 , 192.168.202.100
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50695 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50697 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50699 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50701 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50703 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50705 , 192.168.229.251:80
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.102 , 192.168.202.100
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50707 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50709 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50711 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50713 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50715 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50717 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50719 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50721 , 192.168.229.251:80
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Host Unreachable ,192.168.202.1 , 192.168.202.76
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50723 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50725 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50727 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50729 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50731 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50733 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50734 , 192.168.229.251:80
+03/16,07:30:01, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.101 , 192.168.202.100
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50736 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50738 , 192.168.229.251:80
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50740 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50742 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50744 , 192.168.229.251:80
+03/16,07:30:01, 2, Attempted Information Leak,WEB-MISC http directory traversal ,192.168.202.79:50746 , 192.168.229.251:80
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50746 , 192.168.229.251:80
+03/16,07:30:01, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50746
+03/16,07:30:01, 2, Attempted Information Leak,ATTACK-RESPONSES Invalid URL ,192.168.229.251:80 , 192.168.202.79:50746
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:01, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50746
+03/16,07:30:01, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50748 , 192.168.229.251:80
+03/16,07:30:01, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50748
+03/16,07:30:01, 2, Attempted Information Leak,ATTACK-RESPONSES Invalid URL ,192.168.229.251:80 , 192.168.202.79:50748
+03/16,07:30:01, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50748
+03/16,07:30:02, 2, Attempted Information Leak,WEB-MISC /etc/passwd ,192.168.202.79:50750 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,WEB-MISC http directory traversal ,192.168.202.79:50750 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50750 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50750
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES Invalid URL ,192.168.229.251:80 , 192.168.202.79:50750
+03/16,07:30:02, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50750
+03/16,07:30:02, 2, Attempted Information Leak,WEB-MISC http directory traversal ,192.168.202.79:50751 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50751 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50751
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES Invalid URL ,192.168.229.251:80 , 192.168.202.79:50751
+03/16,07:30:02, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50751
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50753 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,GPL WEB_SERVER .htaccess access ,192.168.202.79:50753 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,WEB-MISC .htaccess access ,192.168.202.79:50753 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,GPL WEB_SERVER .htpasswd access ,192.168.202.79:50755 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,WEB-MISC .htpasswd access ,192.168.202.79:50755 , 192.168.229.251:80
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50755 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50757 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50757 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50757
+03/16,07:30:02, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50757
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50759 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50761 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50761
+03/16,07:30:02, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50761
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50762 , 192.168.229.251:80
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50764 , 192.168.229.251:80
+03/16,07:30:02, 2, Attempted Information Leak,ATTACK-RESPONSES 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50764
+03/16,07:30:02, 2, Attempted Information Leak,GPL WEB_SERVER 403 Forbidden ,192.168.229.251:80 , 192.168.202.79:50764
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.103 , 192.168.202.100
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.202 , 192.168.202.100
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50766 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50766 , 192.168.229.251:80
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.253 , 192.168.202.100
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Host Unreachable ,192.168.202.1 , 192.168.202.76
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.102 , 192.168.202.100
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.101 , 192.168.202.100
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50770 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,GPL WEB_SERVER author.exe access ,192.168.202.79:50770 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE author.exe access ,192.168.202.79:50770 , 192.168.229.251:80
+03/16,07:30:02, 1, A Network Trojan was Detected,ET INFO Exectuable Download from dotted-quad Host ,192.168.202.79:50770 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50770 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50772 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE dvwssr.dll access ,192.168.202.79:50772 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50772 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50774 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50774 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50776 , 192.168.229.251:80
+03/16,07:30:02, 1, A Network Trojan was Detected,ET INFO Exectuable Download from dotted-quad Host ,192.168.202.79:50776 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50776 , 192.168.229.251:80
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50778 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT fpcount access ,192.168.202.79:50778 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS fpcount access ,192.168.202.79:50778 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50778 , 192.168.229.251:80
+03/16,07:30:02, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.152 , 192.168.202.100
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50780 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE shtml.dll access ,192.168.202.79:50780 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50780 , 192.168.229.251:80
+03/16,07:30:02, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50782 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE shtml.exe access ,192.168.202.79:50782 , 192.168.229.251:80
+03/16,07:30:02, 1, A Network Trojan was Detected,ET INFO Exectuable Download from dotted-quad Host ,192.168.202.79:50782 , 192.168.229.251:80
+03/16,07:30:02, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE /_vti_bin/ access ,192.168.202.79:50782 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50784 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50786 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50788 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE access.cnf access ,192.168.202.79:50788 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50788 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50788 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50790 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50791 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT administrators.pwd access ,192.168.202.79:50791 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE administrators.pwd access ,192.168.202.79:50791 , 192.168.229.251:80
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.203 , 192.168.202.100
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50793 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL WEB_SERVER authors.pwd access ,192.168.202.79:50793 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE authors.pwd access ,192.168.202.79:50793 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50795 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50795 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50795 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50797 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50797 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50797 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50798 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50800 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS doctodep.btr access ,192.168.202.79:50800 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50802 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50804 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50804 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50804 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50805 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL WEB_SERVER service.cnf access ,192.168.202.79:50805 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE service.cnf access ,192.168.202.79:50805 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50805 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50805 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50807 , 192.168.229.251:80
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.202 , 192.168.202.100
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50809 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50811 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL WEB_SERVER service.pwd ,192.168.202.79:50811 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE service.pwd ,192.168.202.79:50811 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50812 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE service.stp access ,192.168.202.79:50812 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50814 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL WEB_SERVER services.cnf access ,192.168.202.79:50814 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE services.cnf access ,192.168.202.79:50814 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50814 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50814 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50816 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50818 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50818 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50818 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50819 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE svcacl.cnf access ,192.168.202.79:50819 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50819 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50819 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50821 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE users.pwd access ,192.168.202.79:50821 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50823 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50823 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50823 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50825 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL WEB_SERVER writeto.cnf access ,192.168.202.79:50825 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-FRONTPAGE writeto.cnf access ,192.168.202.79:50825 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,GPL EXPLOIT .cnf access ,192.168.202.79:50825 , 192.168.229.251:80
+03/16,07:30:03, 2, Access to a Potentially Vulnerable Web Application,WEB-IIS .cnf access ,192.168.202.79:50825 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50827 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50828 , 192.168.229.251:80
+03/16,07:30:03, 2, Attempted Information Leak,GPL WEB_SERVER .htaccess access ,192.168.202.79:50828 , 192.168.229.251:80
+03/16,07:30:03, 2, Attempted Information Leak,WEB-MISC .htaccess access ,192.168.202.79:50828 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,GPL WEB_SERVER .htpasswd access ,192.168.202.79:50830 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,WEB-MISC .htpasswd access ,192.168.202.79:50830 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50830 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50832 , 192.168.229.251:80
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Host Unreachable ,192.168.202.1 , 192.168.202.89
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.253 , 192.168.202.100
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50834 , 192.168.229.251:80
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.25 , 192.168.202.100
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50836 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50838 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50840 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50842 , 192.168.229.251:80
+03/16,07:30:03, 2, Attempted Information Leak,WEB-MISC backup access ,192.168.202.79:50842 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50844 , 192.168.229.251:80
+03/16,07:30:03, 2, Attempted Information Leak,ATTACK-RESPONSES Invalid URL ,192.168.229.251:80 , 192.168.202.79:50844
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50846 , 192.168.229.251:80
+03/16,07:30:03, 1, Web Application Attack,ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine) ,192.168.202.79:50847 , 192.168.229.251:80
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.103 , 192.168.202.100
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.101 , 192.168.202.100
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.102 , 192.168.202.100
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Host Unreachable ,192.168.202.1 , 192.168.202.76
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:03, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.203 , 192.168.202.100
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.25 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.253 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.103 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.202.1 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.102 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.203 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.202 , 192.168.202.100
+03/16,07:30:04, 3, Misc activity,ICMP Destination Unreachable Port Unreachable ,192.168.27.101 , 192.168.202.100
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
+03/16,07:30:04, 1, Unsuccessful User Privilege Gain,GPL NETBIOS SMB-DS repeated logon failure ,192.168.229.153:445 , 192.168.202.79:55173
